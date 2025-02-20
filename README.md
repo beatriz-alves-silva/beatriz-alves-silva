@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou a Beatriz Silva
+## 👋 Olá, me chamo Beatriz!
 
 🎓 Estudante de **Ciência da Computação** na **UTFPR**  
 🚀 Estudando **C**, **Java**, **HTML**, **CSS** e **JavaScript**  
