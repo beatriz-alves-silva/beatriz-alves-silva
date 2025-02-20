@@ -3,7 +3,7 @@
 ## 😄 Bem-vindo ao meu perfil GitHub!
 
 🎓 Estudante de **Ciência da Computação** na **UTFPR**  
-🚀 Estudando **HTML**, **CSS**, **JavaScript**, **React.js**, **TypeScript** e **Tailwind**
+🚀 Estudando **HTML**, **CSS**, **JavaScript** e **TypeScript**
 
 ✨ Em constante aprendizado e desenvolvimento de novas habilidades 
 
