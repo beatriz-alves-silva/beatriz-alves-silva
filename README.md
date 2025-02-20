@@ -1,5 +1,10 @@
-## Hi there 👋
+## 👋 Olá, eu sou a Beatriz Silva
 
+🎓 Estudante de **Ciência da Computação** na **UTFPR**  
+🚀 Estudando **C**, **Java**, **HTML**, **CSS** e **JavaScript**  
+✨ Em constante aprendizado e desenvolvimento de novas habilidades 
+
+📫 **Contato:** beatriz.alves.silva.cc@gmail.com
 <!--
 **beatriz-alves-silva/beatriz-alves-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
