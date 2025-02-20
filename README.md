@@ -4,6 +4,7 @@
 
 🎓 Estudante de **Ciência da Computação** na **UTFPR**  
 🚀 Estudando **HTML**, **CSS**, **JavaScript**, **React.js**, **TypeScript** e **Tailwind**
+
 ✨ Em constante aprendizado e desenvolvimento de novas habilidades 
 
 📫 **Contato:** beatriz.alves.silva.cc@gmail.com
