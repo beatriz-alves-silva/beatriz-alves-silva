@@ -1,7 +1,9 @@
-## 👋 Olá, me chamo Beatriz!
+# 👋 Olá, me chamo Beatriz!
+
+## 😄 Bem-vindo ao meu perfil GitHub!
 
 🎓 Estudante de **Ciência da Computação** na **UTFPR**  
-🚀 Estudando **C**, **Java**, **HTML**, **CSS** e **JavaScript**  
+🚀 Estudando **HTML**, **CSS**, **JavaScript**, **React.js**, **TypeScript** e **Tailwind**
 ✨ Em constante aprendizado e desenvolvimento de novas habilidades 
 
 📫 **Contato:** beatriz.alves.silva.cc@gmail.com
