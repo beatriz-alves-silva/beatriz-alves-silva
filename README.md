@@ -2,8 +2,8 @@
 
 ## 😄 Bem-vindo ao meu perfil GitHub!
 
-🎓 Estudante de **Ciência da Computação** na **UTFPR**  
-🚀 Estudando **HTML**, **CSS**, **JavaScript** e **TypeScript**
+🎓 Estudante de **Ciência da Computação** na **UTFPR-PG**  
+🚀 Estudando **HTML**, **CSS** e **JavaScript**
 
 ✨ Em constante aprendizado e desenvolvimento de novas habilidades 
 
