@@ -20,7 +20,7 @@ Estou cursando Ciência da Computação na Universidade Tecnológica Federal do 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-alves-silva&layout=compact&theme=transparent&langs_count=6&cache_seconds=60)
 
 ## 📫 **Contatos:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/beatriz-alves-071820352/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/beatriz-alves-071820352/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/beatriz-alves-silva)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=internet-explorer&logoColor=white)](https://seu-portfolio.com)
 
