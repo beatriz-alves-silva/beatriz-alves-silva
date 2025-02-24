@@ -6,7 +6,6 @@ Olá! Me chamo Beatriz Silva, tenho 27 anos, natural do interior de São Paulo e
 Estou cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR - PG) e em busca da minha primeira oportunidade profissional na área de **desenvolvimento front-end**.
 
 ### 🚀 **Linguagens e Ferramentas utilizadas na faculdade e em projetos pessoais:**
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,5 +17,5 @@ Estou cursando Ciência da Computação na Universidade Tecnológica Federal do 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 📊 **Linguagens mais usadas:**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-alves-silva&layout=compact&theme=transparent&langs_count=6&cache_seconds=60)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-alves-silva&layout=compact&theme=transparent)
