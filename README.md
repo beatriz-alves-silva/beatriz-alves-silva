@@ -17,11 +17,6 @@ Estou cursando Ciência da Computação na Universidade Tecnológica Federal do 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 📊 Estatísticas
+### 📊 **Linguagens mais usadas:**
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-alves-silva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-alves-silva&layout=compact&theme=transparent)
