@@ -3,7 +3,7 @@
 **`Estudante de Ciência da Computação | UTFPR - PG`**
 
 Olá! Me chamo Beatriz Silva, tenho 27 anos, natural do interior de São Paulo e atualmente moro no Paraná.  
-Estou cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR - PG) e em busca da minha primeira oportunidade profissional na área de **desenvolvimento front-end**.
+Estou cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR - PG) e em busca da minha primeira oportunidade profissional na área de **desenvolvimento**.
 
 ### 🚀 **Linguagens e Ferramentas Usadas em Projetos Acadêmicos e Pessoais:**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
