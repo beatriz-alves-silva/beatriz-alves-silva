@@ -6,7 +6,7 @@
 
 🎓 Estudante de **Ciência da Computação** - 5º período na Universidade Tecnológica Federal do Paraná (Ponta Grossa)  
 🌎 Natural do interior de São Paulo | Atualmente no Paraná  
-💻 Em busca da **primeira oportunidade profissional** na área de **Desenvolvimento Web Front-End**  
+💻 Em busca da **primeira oportunidade profissional** na área de **Desenvolvimento Front-End**  
 
 ### 🚀 **Linguagens e Ferramentas Usadas em Projetos Acadêmicos e Pessoais:**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
